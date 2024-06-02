@@ -34,7 +34,7 @@ Bu proje, YouTube'dan video ve ses dosyalarını indirmenize olanak tanır.
 
 ## Görüntüleme Sayısı
 
-![Repo Görüntüleme Sayısı](https://img.shields.io/github/visitors/approval-denial/yt-video-downconv?style=for-the-badge)
+# <img src="https://komarev.com/ghpvc/?username=yt-video-downconvt&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/yt-video-downconv" />
 
 ## Katkıda Bulunanlar
 
