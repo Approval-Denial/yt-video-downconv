@@ -1,7 +1,3 @@
-Tabii ki, işte projeniz için uygun bir README dosyası taslağı:
-
----
-
 # YouTube Video Downloader
 
 Bu proje, YouTube'dan video ve ses dosyalarını indirmenize olanak tanır. 
@@ -38,7 +34,7 @@ Bu proje, YouTube'dan video ve ses dosyalarını indirmenize olanak tanır.
 
 ## Görüntüleme Sayısı
 
-![Repo Görüntüleme Sayısı](https://img.shields.io/github/visitors/kullanici_adiniz/repo_adi?style=for-the-badge)
+![Repo Görüntüleme Sayısı](https://img.shields.io/github/visitors/approval-denial/yt-video-downconv?style=for-the-badge)
 
 ## Katkıda Bulunanlar
 
