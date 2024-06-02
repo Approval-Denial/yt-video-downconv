@@ -42,8 +42,4 @@ Bu projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin ya d
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-
----
-
-Bu şablonu kullanarak README dosyanızı oluşturabilirsiniz. Gerekli yerleri kendi bilgilerinize göre düzenlemeyi unutmayın.
+Bu proje GPL-3.0 license Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
