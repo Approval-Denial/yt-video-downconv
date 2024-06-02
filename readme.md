@@ -42,4 +42,4 @@ Bu projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin ya d
 
 ## Lisans
 
-Bu proje GPL-3.0 license Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje GPL-3.0 Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
