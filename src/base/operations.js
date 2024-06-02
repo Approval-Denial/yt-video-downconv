@@ -41,7 +41,7 @@ class Video {
                 const relatedVideosCopy = [...requested.related_videos];
                 console.log(`${relatedVideosCopy.length > 0 ? `Tarzınıza uygun bir kaç şarkı bulundu indirmek için seçmeniz yeterli. \n
                 ${chalk.yellow("3-) Başa Dön")}
-                ${chalk.red("0-) İptal.")}${relatedVideosCopy.splice(0, 20).map(x => `${chalk.yellow(x.appointment + "-)")} ${x.title}`).join("\n")}` : ""}`);
+                ${chalk.red("0-) İptal.")}\n${relatedVideosCopy.splice(0, 20).map(x => `${chalk.yellow(x.appointment + "-)")} ${x.title}`).join("\n")}` : ""}`);
             });
 
             fileStream.on("error", async (error) => {

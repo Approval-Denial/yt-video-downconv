@@ -8,5 +8,10 @@
     "path": "^0.12.7",
     "redline": "^1.0.1",
     "ytdl-core": "^4.11.5"
-  }
+  },
+  "keywords": ["youtube","youtube-video-downloader","youtube-mp3-downloader","youtube-audio-downloader","youtube-downloader","approval","approvalcyber","luppux"],
+  "author": {"name": "approval"},
+  "license":"GPL-3.0",
+  "name": "Yotube Video/Audio Downloader",
+  "version": "1.0.0",
 }
